@@ -1,4 +1,6 @@
-# 📦 Node.js API com Autenticação (JWT, Bcrypt) e MySQL
+# API GT
+
+📦 Node.js API com Autenticação (JWT, Bcrypt) e MySQL
 
 
 ## 📖 Sobre o Projeto
